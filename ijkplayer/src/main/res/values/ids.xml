@@ -1,0 +1,25 @@
+<resources>
+
+    <!--<item name="media_controller" type="layout" />
+
+    <item name="pause" type="id" />
+    <item name="fullscreen" type="id" />
+    <item name="ffwd" type="id" />
+    <item name="rew" type="id" />
+    <item name="next" type="id" />
+    <item name="prev" type="id" />
+    <item name="mediacontroller_progress" type="id" />
+    <item name="time" type="id" />
+    <item name="time_current" type="id" />
+
+    <item name="ic_media_play" type="drawable" />
+    <item name="ic_media_pause" type="drawable" />
+    <item name="ic_media_fullscreen_shrink" type="drawable" />
+    <item name="ic_media_fullscreen_stretch" type="drawable" />-->
+
+    <item name="fullscreen" type="id" />
+    <item name="ffwd" type="id" />
+    <item name="rew" type="id" />
+    <item name="next" type="id" />
+    <item name="prev" type="id" />
+</resources>
