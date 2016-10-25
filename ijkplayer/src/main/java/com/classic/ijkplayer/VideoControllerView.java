@@ -27,14 +27,6 @@ import java.util.ArrayList;
 import java.util.Formatter;
 import java.util.Locale;
 
-/**
- * 应用名称: My Application
- * 包 名 称: com.classic.multimedia
- *
- * 文件描述: TODO
- * 创 建 人: 刘宾
- * 创建时间: 2016/5/25 13:51
- */
 public class VideoControllerView extends FrameLayout implements IMediaController {
     private static final String TAG = "VideoControllerView";
 

@@ -2,14 +2,6 @@ package com.classic.ijkplayer;
 
 import com.classic.ijkplayer.widget.IjkVideoView;
 
-/**
- * 应用名称: VideoPlayer
- * 包 名 称: com.classic.videoplayer
- *
- * 文件描述: TODO
- * 创 建 人: 刘宾
- * 创建时间: 2016/5/17 14:55
- */
 public class VideoConfig {
     private VideoConfig() {
         initDefault();
